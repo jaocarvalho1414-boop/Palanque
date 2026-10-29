@@ -1,0 +1,7 @@
+{
+  "name": "palanque-policy-evaluator",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node --watch index.js", "start": "node index.js" },
+  "dependencies": { "dotenv": "^16.4.7", "express": "^4.21.2", "openai": "^5.12.2" }
+}
